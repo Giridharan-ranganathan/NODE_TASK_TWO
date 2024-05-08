@@ -1,0 +1,42 @@
+[
+    {
+    "Room Name" : "Room 1",
+    "Booking Stauts" : "Success",
+    "Customer Name" : "aaaa",
+    "Date" : "11/11/1111",
+    "Start Time" : "12.00 am",
+    "End Time" : "12.00 am"
+},
+{
+    "Room Name" : "Room 2",
+    "Booking Stauts" : "Success",
+    "Customer Name" : "bbbb",
+    "Date" : "12/12/1222",
+    "Start Time" : "12.00 am",
+    "End Time" : "12.00 pm"
+},
+{
+    "Room Name" : "Room 3",
+    "Booking Stauts" : "Success",
+    "Customer Name" : "ccc",
+    "Date" : "13/13/1333",
+    "Start Time" : "12.oo am",
+    "End Time" : "12.00 pm"
+},
+{
+    "Room Name" : "Room 4",
+    "Booking Stauts" : "Canceled",
+    "Customer Name" : "ddd",
+    "Date" : "14/14/1444",
+    "Start Time" : "12.00 am",
+    "End Time" : "12.00 pm"
+},
+{
+    "Room Name" : "Room 5",
+    "Booking Stauts" : "success",
+    "Customer Name" : "eee",
+    "Date" : "15/15/1555",
+    "Start Time" : "12.00 am",
+    "End Time" : "12.00 pm"
+}
+]
